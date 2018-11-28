@@ -1,2 +1,2 @@
-mvn clean install
+mvn clean
 docker-compose build
